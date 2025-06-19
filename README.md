@@ -56,7 +56,6 @@ Some key columns include:
 - Visualized loss curves and prediction accuracy (scatter plot)
 
 ### 4. **Model Deployment**
-- Saved model as `demand_forecasting_model.h5`
 - Sample inference provided on new data point
 
 ---
